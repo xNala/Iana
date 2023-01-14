@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\YARAV\YARAV\bin\x64\Debug\YARAV.exe.config
+C:\Users\Owner\source\repos\YARAV\YARAV\bin\x64\Debug\YARAV.exe
+C:\Users\Owner\source\repos\YARAV\YARAV\bin\x64\Debug\YARAV.pdb
+C:\Users\Owner\source\repos\YARAV\YARAV\bin\x64\Debug\libyara.NET.dll
+C:\Users\Owner\source\repos\YARAV\YARAV\bin\x64\Debug\libyara.NET.pdb
+C:\Users\Owner\source\repos\YARAV\YARAV\bin\x64\Debug\libyara.NET.xml
+C:\Users\Owner\source\repos\YARAV\YARAV\obj\x64\Debug\YARAV.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\YARAV\YARAV\obj\x64\Debug\YARAV.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\YARAV\YARAV\obj\x64\Debug\YARAV.csproj.CopyComplete
+C:\Users\Owner\source\repos\YARAV\YARAV\obj\x64\Debug\YARAV.exe
+C:\Users\Owner\source\repos\YARAV\YARAV\obj\x64\Debug\YARAV.pdb

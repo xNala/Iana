@@ -1,0 +1,7 @@
+C:\Users\Owner\source\repos\YARAV\YARAV\bin\Debug\YARAV.exe.config
+C:\Users\Owner\source\repos\YARAV\YARAV\bin\Debug\YARAV.exe
+C:\Users\Owner\source\repos\YARAV\YARAV\bin\Debug\YARAV.pdb
+C:\Users\Owner\source\repos\YARAV\YARAV\obj\Debug\YARAV.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\YARAV\YARAV\obj\Debug\YARAV.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\YARAV\YARAV\obj\Debug\YARAV.exe
+C:\Users\Owner\source\repos\YARAV\YARAV\obj\Debug\YARAV.pdb
